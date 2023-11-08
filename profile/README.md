@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://firebasestorage.googleapis.com/v0/b/otoscopia-926ac.appspot.com/o/application-assets%2FLogo-big.svg?alt=media&token=163a22ea-3553-41ea-8860-28e22a2512e2" alt="Otoscopia Logo">
+<img src="./otoscopia.svg" alt="Otoscopia Logo">
   
 ***Effortlessly Access and Manage Your Medical Records***
 </div>
